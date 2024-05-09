@@ -1,0 +1,11 @@
+{
+  "githubIssues.issueBranchTitle": "issue-${issueNumber}/${sanitizedIssueTitle}",
+  "githubIssues.useBranchForIssues": "prompt",
+  "jest.autoRun": "off",
+  "search.useIgnoreFiles": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
